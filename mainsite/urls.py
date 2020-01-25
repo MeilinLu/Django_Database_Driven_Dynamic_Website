@@ -25,3 +25,4 @@ urlpatterns = [
     url(r'^news/$', news),
     url(r'^admin/', admin.site.urls),
 ]
+
